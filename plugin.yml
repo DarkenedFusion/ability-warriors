@@ -1,0 +1,8 @@
+name: AbilityWarriors
+author: darkenedfusion
+version: 15
+main: io.github.darkenedfusion.Main
+api-version: 1.15
+
+commands:
+  class:
